@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @IRANDON LAURETA
 - 👀 I’m interested in C++,JAVA,PYTHON,SQL,RUBY,JAVASCRIPT,TECHDRAFT,BLUE DRAWING,C,C#,PASCAL,DATATRIEVE,F#,GO,BATO.J.J++,KOTLIN,MAX,MDL,POWERSHELL,PEARL,SQL,SPARK,Z++,ZENO.
 - 🌱 I’m currently learning in C++,JAVA,PYTHON-3,HTML,CSS,JAVASCRIPT,ARDUINO.
-- 💞️ I’m looking to collaborate on Mr.Joemar Palting, Gerald M. Wales, kuya Jeremiah Olipas, kuya Rico Jay Paclibare, kuya Rocky Madridano Llamasares, And sir Abraham Okohoba
+- 💞️ I’m looking to collaborate on Mr.Joemar Palting, Gerald M. Wales, kuya Jeremiah Olipas, kuya Rico Jay Paclibare, kuya Rocky Madridano Llamasares,sir Damith Kamara And sir Abraham Okohoba
 - 📫 How to reach me say Hi or Hello just talk to me if you want, I'm an Open book so what do you want to know.
 
 <!---
