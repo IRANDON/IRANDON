@@ -6,8 +6,6 @@
 - 📫 How to reach me say Hi or Hello just talk to me if you want, I'm an Open book so what do you want to know.
 
 <!---
-IRANDON/IRANDON is a ✨ TECHDRAFT PASSSER ✨ I KNOW HOW TO ANIME, STICK MAN IN MACROMIDIA-FLASH, And BLENDER ✨ I'm now (1st year) college @ Our Lady of the Pillar College (SMI).
-You can click the link to take a look into my Profile https://www.facebook.com/irandon.laureta You can add me if you want.
+IRANDON/IRANDON is a ✨ TECHDRAFT PASSSER ✨ I KNOW HOW TO ANIME IN MACROMIDIA-FLASH, And BLENDER ✨ I'm now (2nd year) college @ Our Lady of the Pillar College (SMI).
+You can click the link to take a look into my Profile https://www.facebook.com/irandon.laureta You can add and contact me if you want.
 --->
-}
-};
