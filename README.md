@@ -1,11 +1,37 @@
-// COVER PHOTO
-- 👋 Hi, I’m @IRANDON LAURETA
-- 👀 I’m interested in C++,JAVA,PYTHON,SQL,RUBY,JAVASCRIPT,TECHDRAFT,BLUE DRAWING,C,C#,PASCAL,DATATRIEVE,F#,GO,BATO.J.J++,KOTLIN,MAX,MDL,POWERSHELL,PEARL,SQL,SPARK,Z++,ZENO.
-- 🌱 I’m currently learning in C++,JAVA,PYTHON-3,HTML,CSS,JAVASCRIPT,ARDUINO.
-- 💞️ I’m looking to collaborate on Mr.Joemar Palting, Gerald M. Wales, kuya Jeremiah Olipas, kuya Rico Jay Paclibare, kuya Rocky Madridano Llamasares,sir Damith Kamara And sir Abraham Okohoba
-- 📫 How to reach me say Hi or Hello just talk to me if you want, I'm an Open book so what do you want to know.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
 
-<!---
-IRANDON/IRANDON is a ✨ TECHDRAFT PASSSER ✨ I KNOW HOW TO ANIME IN MACROMIDIA-FLASH, And BLENDER ✨ I'm now (2nd year) college @ Our Lady of the Pillar College (SMI).
-You can click the link to take a look into my Profile https://www.facebook.com/irandon.laureta You can add and contact me if you want.
---->
+I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines. 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Carl+Casta%C3%B1as%2C+20+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+
+### How to reach me: 
+<a href="mailto: indonlaureta@gmail.com">
+<img src="https://img.shields.io/badge/-indonlaureta%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/carlcastanas/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+
+### Current Status Quo:
+
+- 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
+- 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 👀 See my [Personal Achievement](https://www.linkedin.com/in/irandon-l-947b58214/) 
+
+### Tools I work upon : 🛠
+
+<img src="https://img.shields.io/badge/html5%20-%23E00033.svg?&style=for-the-badge&logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white">   <img src="https://img.shields.io/badge/react.js%20-%2314354C.svg?&style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white">      
+<img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
+
+### Stats Overview : :cyclone:
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlcastanas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=carlcastanas&theme=dracula&no-bg=true&row=1"/>
+
+
+### GitHub Highlights: :blossom:
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=material-palenight"/>
+</a>
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
