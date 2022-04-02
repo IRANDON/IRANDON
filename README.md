@@ -2,7 +2,7 @@
 
 I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta%C3%B1as%2C+19+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta+19+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: indonlaureta@gmail.com">
