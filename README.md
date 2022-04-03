@@ -21,17 +21,17 @@ I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines.
 <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/mongodb%20-%2347A248svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"> 
 
 ### Stats Overview : :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlcastanas&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=carlcastanas&theme=dracula&no-bg=true&row=1"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IRANDON LAURETA&show_icons=true&count_private=true&hide=stars&include_all_commits=false&theme=material-palenight" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=IRANDON LAURETA&theme=dracula&no-bg=true&row=1"/>
 
 
 ### GitHub Highlights: :blossom:
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IRANDON LAURETA&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlcastanas&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IRANDON LAURETA&theme=material-palenight"/>
 </a>
 
 ### Github Activity: 🔥 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=carlcastanas&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=IRANDON LAURETA&theme=dracula&color=B994E6&bg_color=2B2D3D" />
