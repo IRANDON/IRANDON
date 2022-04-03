@@ -6,7 +6,7 @@ I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines.
 
 ### How to reach me: 
 <a href="mailto: indonlaureta@gmail.com">
-<img src="https://img.shields.io/badge/-indonlaureta%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/irandonl/">   <img src="https://img.shields.io/badge/@Irandon Laureta-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/irandon-l-947b58214/"><img src="https://img.shields.io/badge/IRANDON LAURETA-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/IRANDON.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-indonlaureta%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/irandonl/">   <img src="https://img.shields.io/badge/@Irandon Laureta-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/irandon-l-947b58214/"><img src="https://img.shields.io/badge/IRANDON LAURETA-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://github.com/IRANDON"><img src="https://img.shields.io/badge/IRANDON.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
