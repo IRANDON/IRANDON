@@ -2,7 +2,7 @@
 
 I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta+19+years+old;Front-end+Web+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta+20+years+old;AI developer+Web and Desktop+Developer;Cyber+Security+Specialist)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: indonlaureta@gmail.com">
@@ -11,7 +11,7 @@ I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines.
 ### Current Status Quo:
 
 - 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
-- 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> Industry.
+- 🔍 I’m looking for career opportunities in the <strong>Full Stack</strong> Industry.
 - 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
 - 👀 See my [Personal Achievement](https://www.linkedin.com/in/irandon-l-947b58214/) 
 
