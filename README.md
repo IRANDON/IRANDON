@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hello, Nice to see you.</h1>
 
 I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines. 
 
@@ -12,7 +12,7 @@ I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines.
 
 - 💼 I’m pursuing a <strong>Bachelor of Science in Information Technology</strong>.
 - 🔍 I’m looking for career opportunities in the <strong>Full Stack</strong> Industry.
-- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+- 💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, ASP.NET C# Projects</strong>
 - 👀 See my [Personal Achievement](https://www.linkedin.com/in/irandon-l-947b58214/) 
 
 ### Tools I work upon : 🛠
