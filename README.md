@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> hello, Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, Nice to see you.</h1>
 
 I'm IRANDON LAURETA 😉, FULL-STACK Developer 👨🏻‍💻 from Philippines. 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta+20+years+old;Front-end+and+Back-end+Web+Developer;Mobile+and+Desktop+Developer;Also+AI+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Irandon+Laureta+21+years+old;Front-end+and+Back-end+Web+Developer;Mobile+and+Desktop+Developer;Also+AI+Developer)](https://git.io/typing-svg)
 
 ### How to reach me: 
 <a href="mailto: indonlaureta@gmail.com">
